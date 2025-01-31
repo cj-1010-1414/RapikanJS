@@ -1,0 +1,18 @@
+{
+  "name": "RapikanJS",
+  "version": "1.0.0",
+  "description": "Merapikan kode js, jsx, json, css, dan html secara terprogram (bukan CLI) dengan konfigurasi minim",
+  "type": "module",
+  "main": "./script/indeks.js",
+  "keywords": [
+    "prettier",
+    "format",
+    "kode"
+  ],
+  "author": "Atok Fakhrudin",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "5.4.1",
+    "prettier": "3.4.2"
+  }
+}
